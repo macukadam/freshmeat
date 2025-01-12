@@ -27,3 +27,9 @@ sudo apt-get install docker-compose -y
 
 echo "=== Installing curl... ==="
 sudo apt-get install curl -y
+
+echo "=== Installing picom... ==="
+sudo apt-get install picom -y
+
+echo "=== Installing feh... ==="
+sudo apt-get install feh -y

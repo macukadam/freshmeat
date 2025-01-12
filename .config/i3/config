@@ -194,7 +194,6 @@ bindsym Control+$mod+l exec "i3lock -c 000000"
 
 exec "xautolock -detectsleep -time 15 -locker \"i3lock -c 000000\""
 
-exec --no-startup-id feh --bg-scale '~/anime/1850441.jpg'
+exec --no-startup-id feh --bg-scale '/home/computa/Pictures/wallpapers/Photo of a cityscape echoing 1980s cyberpunk aesthetics, but plunged into deep twilight. Scattered neon lights barely illuminate the scene, casting fa.png'
 
-exec --no-startup-id "xrandr --output DP-0 --primary --mode 3840x2160 --pos 1921x0 --rotate normal --output HDMI-0 --mode 1920x1080 --pos 0x340 --rotate normal"
-
+exec --no-startup-id "xrandr --output Virtual-1 --mode 1920x1080"
