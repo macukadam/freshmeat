@@ -1,0 +1,1 @@
+/home/macukadam/.fzf/shell/key-bindings.fish
